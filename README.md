@@ -12,7 +12,7 @@ It started in the 1990s as a set of open source tools, like Weka, which helped r
 However in this repository we will just focus on the PyCaret AutoML library but readers are free to explore the others. For the regression task, the [housing dataset](https://github.com/PacktPublishing/Practical-Data-Science-with-Python/tree/main/14-Chapter-14/data) has been used for performing EDA and ML-regression task, while the in-built "Credit default" dataset made possible by PyCaret was used for the classification task, finally the Clustering was perform using [Kmeans](https://en.wikipedia.org/wiki/K-means_clustering#:~:text=k%2Dmeans%20clustering%20is%20a,a%20prototype%20of%20the%20cluster.) and [palmer's penguin](https://rpubs.com/michelle10128/923430) dataset which is a good alternative to [Iris dataset](https://archive.ics.uci.edu/dataset/53/iris).
 
 
-#### **Link to the notebooks:**     👉 [Here](https://github.com/Kmohamedalie/AutoML-PyCaret/tree/master/Notebooks)
+<br><br>
 
 
 #### **Results and findings 🔍 (Supervised, Unsupervised learning algorithms):**
@@ -34,15 +34,35 @@ Note there are other metrics for evaluating the classifcation model depending on
 
 <br>
    
-**3. [Clustering (Kmean - Elbow)](https://github.com/Kmohamedalie/AutoML-PyCaret/blob/master/Notebooks/PyCaret_Clustering.ipynb)**
+**3. [Clustering (Kmean - PCA, Elbow, Cluster distribution plot)](https://github.com/Kmohamedalie/AutoML-PyCaret/blob/master/Notebooks/PyCaret_Clustering.ipynb)**
 
- ![image](https://github.com/Kmohamedalie/AutoML-PyCaret/assets/63104472/6423b1cc-7f8d-4263-ad25-76a2daf2a549)
+**PCA plot:**
+
+![newplot](https://github.com/Kmohamedalie/AutoML-PyCaret/assets/63104472/ea5bcc6d-7de6-4d19-a379-6eeb6312413a)
+
+
+**Cluster distribution:**
+
+![newplot (1)](https://github.com/Kmohamedalie/AutoML-PyCaret/assets/63104472/82883445-be72-4873-a22d-058aef549aea)
+
+
+**Elbow plot:**
+
+![image](https://github.com/Kmohamedalie/AutoML-PyCaret/assets/63104472/02e6b863-bf01-4bb6-af0b-6372d39b8ea5)
+
+
+
+
+
   
 
 
 
 <br><br>
 
+#### **Link to the notebooks:**     👉 [Here](https://github.com/Kmohamedalie/AutoML-PyCaret/tree/master/Notebooks)
+
+<br>
 
 
 #### **Further readings 📚:**
