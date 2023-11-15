@@ -20,4 +20,5 @@ Utilize the code in the notebooks to explore and perform both classification and
 
 [PyCaret](https://pycaret.gitbook.io/docs/): Automated Machine learning <br>
 [YellowBrick](https://www.scikit-yb.org/en/latest/index.html): Machine learning visualizer
+[Pack Practical DataScience](https://www.amazon.com/Practical-Data-Science-Python-hands/dp/1801071977)
 
