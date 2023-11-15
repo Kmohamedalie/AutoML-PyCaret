@@ -12,5 +12,8 @@ It started in the 1990s as a set of open source tools, like Weka, which helped r
 However in this repository we will just focus on the PyCaret AutoML library but readers are free to explore the others. For the regression task we the [housing dataset](https://github.com/PacktPublishing/Practical-Data-Science-with-Python/tree/main/14-Chapter-14/data) has been used for performing EDA and ML-regression task, while the in-built "Credit default" dataset made possible by PyCaret was used for the classification task.
 
 ### **Further readings:**
-| [PyCaret](https://pycaret.gitbook.io/docs/)|[YellowBrick](https://www.scikit-yb.org/en/latest/index.html)|
-| --------- |--------|
+Utilize the code in the notebooks to explore and perform both classification and regression tasks.
+
+[PyCaret](https://pycaret.gitbook.io/docs/): Automated Machine learning <br>
+[YellowBrick](https://www.scikit-yb.org/en/latest/index.html): Machine learning visualizer
+
