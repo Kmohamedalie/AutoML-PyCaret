@@ -5,7 +5,7 @@ It started in the 1990s as a set of open source tools, like Weka, which helped r
 
 
 
-#### A list of few **AutoML Systems:**
+#### A list of few **AutoML Systems 🤖:**
 | [AutoWEKA](https://www.cs.ubc.ca/labs/algorithms/Projects/autoweka/) | [PyCaret](https://pycaret.org/) | [H20](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) | [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) |[Auto-PyTorck](https://github.com/automl/Auto-PyTorch) | [AutoKeras](https://autokeras.com/)|
 | --------- |--------|-----------|----------|----------|----------|
 
@@ -15,7 +15,7 @@ However in this repository we will just focus on the PyCaret AutoML library but 
 #### **Link to the notebooks:**     👉 [Here](https://github.com/Kmohamedalie/AutoML-PyCaret/tree/master/Notebooks)
 
 
-#### **Further readings:**
+#### **Further readings 📚:**
 Utilize the code in the notebooks to explore and perform both classification and regression tasks.
 
 [PyCaret](https://pycaret.gitbook.io/docs/): Automated Machine learning <br>
