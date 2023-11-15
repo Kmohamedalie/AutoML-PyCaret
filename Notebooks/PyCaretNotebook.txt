@@ -1,2 +1,0 @@
-AutoML-Regression.ipynb
-AutoML-Classification.ipynb
